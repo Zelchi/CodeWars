@@ -12,3 +12,7 @@ function getSum(a, b) {
 
     return result;
 }
+
+const batata = Infinity;
+
+console.log(batata + 1);
